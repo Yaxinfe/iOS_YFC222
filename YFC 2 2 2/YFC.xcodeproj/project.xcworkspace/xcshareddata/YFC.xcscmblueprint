@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c9e4e011-17fd-45d7-a5a7-1b52a25985db++5539" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c9e4e011-17fd-45d7-a5a7-1b52a25985db++5539" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3D731B7F-22A9-46CD-8E68-F82A8E689E2F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c9e4e011-17fd-45d7-a5a7-1b52a25985db++5539" : "YFC\/NetworkController\/JSON\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YFC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YFC.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/tanzanite.unfuddle.com\/svn\/tanzanite_usagentapp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c9e4e011-17fd-45d7-a5a7-1b52a25985db++5539"
+    }
+  ]
+}
